@@ -30,20 +30,6 @@ Always expanding my horizons, I'm diving deep into:
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 💬 Ask Me About
-
-- Optimizing code for performance without sacrificing readability.
-- Navigating the world of remote work and staying productive.
-- Balancing work and outdoor adventures for a fulfilling lifestyle.
-
-## ⚡ Fun Facts
-
-- I'm a huge fan of the Harry Potter franchise and the Marvel Cinematic Universe.
-
-## 🚀 Favorite Quote
-
->"Do or do not, there is no try." - Yoda Nemo
-
 ## 📊 GitHub Stats
 
 ![Truong Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=truongng201&show_icons=true&theme=radical)
