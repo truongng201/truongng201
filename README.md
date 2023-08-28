@@ -8,7 +8,7 @@ I'm a software engineer with a passion for crafting elegant solutions to complex
 
 Always expanding my horizons, I'm diving deep into:
 
-- Machine Learning and Language Processing
+- Machine Learning and Natural Language Processing
 - DevOps and Cloud Computing
 - Full-Stack Software engineering
 
