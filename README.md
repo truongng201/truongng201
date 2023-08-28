@@ -4,10 +4,6 @@
 
 I'm a software engineer with a passion for crafting elegant solutions to complex problems. Currently based in Hanoi Vietnam, I thrive on continuous learning and enjoy exploring new technologies. When I'm not coding, you'll find me sleeping, eating, or playing billiards.
 
-## 🔭 What I'm Working On
-
-- Building and writing blogs about a full-stack web application about drawing and guessing game.
-
 ## 🌱 What I'm Learning
 
 Always expanding my horizons, I'm diving deep into:
@@ -15,6 +11,10 @@ Always expanding my horizons, I'm diving deep into:
 - Machine Learning and Language Processing
 - DevOps and Cloud Computing
 - Full-Stack Software engineering
+
+## 🚀 Favorite Quote
+
+>"Do or do not, there is no try." - Yoda
 
 ## 📫 Technologies and Tools
 
