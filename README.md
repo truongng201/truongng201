@@ -26,8 +26,7 @@ Always expanding my horizons, I'm diving deep into:
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 📫 GitHub Stats
+## How to reach me
 
-<p align='center'>
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=truongng201&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css">
-</p>
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truong-nguyen-8594b91a0/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009498819215)
