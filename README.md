@@ -12,10 +12,6 @@ Always expanding my horizons, I'm diving deep into:
 - DevOps and Cloud Computing
 - Full-Stack Software engineering
 
-## 🚀 Favorite Quote
-
->"Do or do not, there is no try." - Yoda
-
 ## 📫 Technologies and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -29,3 +25,9 @@ Always expanding my horizons, I'm diving deep into:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+## 📫 GitHub Stats
+
+<p align='center'>
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=truongng201&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css">
+</p>
