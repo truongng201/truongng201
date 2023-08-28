@@ -29,7 +29,3 @@ Always expanding my horizons, I'm diving deep into:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Truong Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=truongng201&show_icons=true&theme=radical)
