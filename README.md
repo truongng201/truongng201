@@ -8,6 +8,4 @@
 - 📫 [facebook](https://www.facebook.com/profile.php?id=100009498819215) or [gmail] truongng201@gmail.com
 
 ### 🌱 What I'm Learning
-- 😘 Security and security in ML, FL and DL
-- 😍 DevSecOps
-- 😏 Know some dev stack
+- 😘 Sec only kk a little secy right 😍😍
