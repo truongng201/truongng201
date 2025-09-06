@@ -4,4 +4,4 @@
 - 👽 Interested in low level programming
 - 💜 Coding, sleeping
 - 👿 Loving billiards ? Want to play ? Contact me
-- 📫 [facebook](https://www.facebook.com/profile.php?id=100009498819215) or [gmail] truongng201@gmail.com
+- 📫 [gmail] truongng201@gmail.com
