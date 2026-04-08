@@ -2,6 +2,4 @@
 
 ### 👨‍💻 About Me
 - 👽 Interested in system
-- 💜 Coding, sleeping, pickleball
-- 👿 Loving billiards ? Want to play ? Contact me
 - 📫 [gmail] truongng201@gmail.com
